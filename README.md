@@ -23,12 +23,13 @@ Key Components:
 
 ## Repository Structure
 
-'''
-projectile-motion\
-- projectile_motion_analysis.ipynb.    # Narrative and phase space analysis of simulations; includes generated plots
-- projectile_motion_model.py           # Core classes and functions for the simulation
-- README.md                            # This file](https://github.dev/alex-keightley/projectile_motion/blob/main/README.md)
-'''
+```plaintext
+projectile-motion-drag/
+├── projectile_model.py        # Core classes and functions for the simulation
+├── projectile_analysis.ipynb # Notebook to run simulations and generate plots
+├── figures/                  # Plots generated from simulations
+└── README.md                 # This file
+```
 
 ## Requirements
 
