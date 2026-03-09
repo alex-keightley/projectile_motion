@@ -26,9 +26,9 @@ Key Components:
 ```plaintext
 projectile-motion-drag/
 ├── projectile_model.py        # Core classes and functions for the simulation
-├── projectile_analysis.ipynb # Notebook to run simulations and generate plots
-├── figures/                  # Plots generated from simulations
-└── README.md                 # This file
+├── projectile_analysis.ipynb  # Notebook to run simulations and generate plots
+├── figures/                   # Plots generated from simulations
+└── README.md                  # This file
 ```
 
 ## Requirements
