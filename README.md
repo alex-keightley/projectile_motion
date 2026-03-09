@@ -41,4 +41,6 @@ Open projectile_motion_analysis.ipynb and run all cells to simulate all systems 
 
 ## Example Output
 
-![Energy and Force due to Impulse]sample_figures.png
+![Graphs of Motion]sample_figure-motion.png
+
+![Energy and Force due to Impulse]sample_figure-energy_force.png
