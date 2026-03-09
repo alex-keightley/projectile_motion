@@ -27,7 +27,7 @@ Key Components:
 projectile-motion\
 - projectile_motion_analysis.ipynb.    # Narrative and phase space analysis of simulations; includes generated plots
 - projectile_motion_model.py           # Core classes and functions for the simulation
-- README.md                            # This file
+- README.md                            # This file](https://github.dev/alex-keightley/projectile_motion/blob/main/README.md)
 '''
 
 ## Requirements
